@@ -12,21 +12,21 @@ I'm a self-taught Python developer from Turkey, building web applications, produ
 ## Featured Projects
 
 ### [ISS Tracker](https://github.com/Allkindoflower/isstracker)  
-Tracks the real-time location of the International Space Station using Python and interactive maps.  
+Tracks the real-time location of the International Space Station using Python. (Strictly backend focused) 
 **Tech:** Python, Requests, Folium  
 
 ### [Task Manager](https://github.com/Allkindoflower/task-manager)  
-Web-based application for organizing tasks, setting priorities, and boosting productivity.  
+Full-stack task management app with gamified user experience.
 **Tech:** Python, Flask, HTML, CSS, JavaScript  
 
 ### [Mood Tracker Web](https://github.com/Allkindoflower/mood-tracker-web)  
-Full-stack app for logging and visualizing mood patterns to support mental wellness.  
+Full-stack app for logging mood patterns to support mental state awaraness and conventions.  
 **Tech:** Python, FastAPI, HTML, CSS, JavaScript  
 
 ## Technologies & Tools
 
 - **Languages:** Python, HTML, CSS, JavaScript  
-- **Frameworks:** Flask, FastAPI  
+- **Frameworks:** FastAPI, Flask 
 - **Areas of Interest:** Web Development, Data Tracking, Personal Productivity, Space Tech  
 
 ## GitHub Stats
