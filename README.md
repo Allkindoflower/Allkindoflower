@@ -41,6 +41,6 @@ Full-stack app for logging mood patterns to support mental state awareness and p
 ## Contact
 
 - Email: bastugugur85@gmail.com
-- Linked-in: https://www.linkedin.com/in/ugur-ba%C5%9Ftu%C4%9F-62b262315/
+- Linked-in: Uğur Baştuğ | https://www.linkedin.com/in/ugur-ba%C5%9Ftu%C4%9F-62b262315/
 - Open to collaborations, freelance opportunities, or job offers  
 
