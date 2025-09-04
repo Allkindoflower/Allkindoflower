@@ -6,7 +6,7 @@ I'm a self-taught Python developer from Turkey, building web applications, produ
 
 - Based in Turkey (UTC +03:00)  
 - Python developer with hands-on experience in web applications and data tracking  
-- Passionate about space technology and practical tech solutions  
+- Likes space technology and strives for producing practical tech solutions  
 - Continuously learning modern frameworks and new programming skills  
 
 ## Featured Projects
