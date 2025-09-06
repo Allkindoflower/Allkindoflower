@@ -2,7 +2,7 @@
 
 I’m a self-taught Python developer from Turkey, focused on building web apps, productivity tools, and data-driven projects. My goal is to create practical software that improves daily life while sharpening my skills as a developer.
 
-## Featured Projects
+## 🚀 Featured Projects
 I like to build practical apps that solve real problems while helping me explore new areas of development — from working with APIs, to gamified interfaces, to lightweight data tracking.
 
 ### [ISS Tracker](https://github.com/Allkindoflower/isstracker)
