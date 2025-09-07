@@ -1,13 +1,13 @@
 # Hi, I'm Uğur 👋
 
-I’m a self-taught Python developer from Turkey, focused on building web apps, productivity tools, and data-driven projects. My goal is to create practical software that improves daily life while sharpening my skills as a developer.
+I’m a self-taught Python developer, focused on building web apps, productivity tools, and data-driven projects. My goal is to create practical software that improves daily life while sharpening my skills as a developer.
 
 ## 🚀 Featured Projects
 I like to build practical apps that solve real problems while helping me explore new areas of development — from working with APIs, to gamified interfaces, to lightweight data tracking.
 
 ### [ISS Tracker](https://github.com/Allkindoflower/isstracker)
 A FastAPI web app that shows the real-time position of the International Space Station and identifies the country or ocean beneath it.  
-- Built to practice external API handling and geospatial data processing.  
+- Shows ISS's real-time location and the country or ocean beneath it, making space data tangible for users. 
 - Uses GeoPandas + Shapely to determine land/ocean boundaries.  
 - Provides REST API endpoints with live ISS coordinates.  
 - Deployed Demo: https://isstracker-upgl.onrender.com  
@@ -37,14 +37,14 @@ Tech: Python, FastAPI, SQLite, HTML, CSS, Vanilla JS
 
 ## 🛠️ Tech & Tools
 
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks:** FastAPI, Flask  
+- **Languages:** Python (daily), JS/HTML/CSS (supporting) 
+- **Frameworks:** FastAPI (primary), Flask (exploratory)
 - **Focus Areas:** Web development, productivity tools, data-driven apps, backend systems  
 
 
 ## 🌱 Currently Exploring
 
-- Best practices in modern web architecture  
+- Exploring scalable REST APIs, Docker deployment patterns, and frontend-backend integration best practices.
 - Testing & code quality improvements  
 - Adding data-driven features to productivity tools  
 
@@ -52,5 +52,5 @@ Tech: Python, FastAPI, SQLite, HTML, CSS, Vanilla JS
 
 - Email: bastugugur85@gmail.com
 - Linked-in: Uğur Baştuğ | https://www.linkedin.com/in/ugur-ba%C5%9Ftu%C4%9F-62b262315/
-- Open to collaborations, freelance projects, and job opportunities  
+- Reach out for collaborations, freelance projects, or full-time opportunities—I’m ready to bring ideas to life
 
