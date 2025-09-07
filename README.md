@@ -3,7 +3,7 @@
 I’m a self-taught Python developer, focused on building web apps, productivity tools, and data-driven projects. My goal is to create practical software that improves daily life while sharpening my skills as a developer.
 
 ## 🚀 Featured Projects
-I like to build practical apps that solve real problems while helping me explore new areas of development — from working with APIs, to gamified interfaces, to lightweight data tracking.
+I like to build apps thoughtfully, that solve problems while helping me explore new areas of development — from working with APIs, to gamified interfaces, to lightweight data tracking.
 
 ### [ISS Tracker](https://github.com/Allkindoflower/isstracker)
 A FastAPI web app that shows the real-time position of the International Space Station and identifies the country or ocean beneath it.  
