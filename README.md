@@ -46,7 +46,8 @@ Tech: Python, FastAPI, SQLite, HTML, CSS, Vanilla JS
 
 - Exploring scalable REST APIs, Docker deployment patterns, and frontend-backend integration best practices.
 - Testing & code quality improvements  
-- Adding data-driven features to productivity tools  
+- Adding data-driven features to productivity tools
+- Getting comfortable with Django/Flask
 
 ## 📫 Contact
 
