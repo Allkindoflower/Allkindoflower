@@ -56,14 +56,14 @@ Lightweight mood tracking web application
 
 ---
 
-## Mood logger with 2 entries, color-coded:
+## Mood logger with 2 entries, automatically color-coded:
 <img width="648" height="888" alt="image" src="https://github.com/user-attachments/assets/942d92cb-a217-4b90-879f-50314f574529" />
 
 ## How it works information panel:
 <img width="543" height="754" alt="image" src="https://github.com/user-attachments/assets/e58953d5-12b5-45d0-b151-83aeb7b4dc92" />
 
 
-- **Impact:** Promotes self-awareness by automatically analyzing mood entries and color-coding them based on sentiment.
+- **Impact:** Promotes self-awareness by automatically analyzing mood entries and uses VADER for color-coding them based on sentiment value.
 - **Tech:** Python, FastAPI, SQLite, Vanilla JavaScript
 - **Features:** Local data storage, responsive design, privacy-focused
 
