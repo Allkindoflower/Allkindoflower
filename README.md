@@ -12,11 +12,13 @@ Self-taught Python developer specializing in **web applications**, **productivit
 Real-time International Space Station tracker with geolocation analysis  
 
 ## ISS over the Arabian Sea:  
-<img width="1022" height="749" alt="image" src="https://github.com/user-attachments/assets/ce49c120-2627-49f1-a06c-3617d1adf512" />
+<img width="419" height="483" alt="image" src="https://github.com/user-attachments/assets/de98423c-6330-4929-a106-23d3792f215c" />
+
 
 ## ISS over the Indian Ocean:  
 
-<img width="1016" height="718" alt="image" src="https://github.com/user-attachments/assets/77d01b96-2457-4e5d-bac2-30df41bbb6c2" />
+<img width="475" height="476" alt="image" src="https://github.com/user-attachments/assets/387e6097-ed71-47db-99de-5df6cff2417a" />
+
 
 
 - **Impact:** Transforms complex space data into accessible, real-time information
@@ -29,7 +31,8 @@ Gamified productivity app that turns tasks into "quests"
 ---
 
 ## A sneak-peek of the Task Manager:
-<img width="707" height="900" alt="image" src="https://github.com/user-attachments/assets/74b89fb2-41b2-4b49-8cd8-6db77c0c6516" />  
+<img width="539" height="629" alt="image" src="https://github.com/user-attachments/assets/0efb4b5b-f1c9-4ccb-bc0d-15370508bfb3" />
+
 
 
 - **Impact:** Increases user engagement through game mechanics and UX design
@@ -40,10 +43,11 @@ Gamified productivity app that turns tasks into "quests"
 Desktop GUI application for automated file organization
 
 ## The Downloads directory, Before/During/After:  
-<img width="847" height="449" alt="image" src="https://github.com/user-attachments/assets/bf5b4259-c5a8-4589-8121-334d4f8a1627" />  
-<img width="496" height="324" alt="image" src="https://github.com/user-attachments/assets/633ce65c-da63-479a-989b-d0e725814ea4" />
-<img width="495" height="326" alt="image" src="https://github.com/user-attachments/assets/b9fecd49-7ad7-46a3-a7bf-2b174931561c" />   
-<img width="892" height="488" alt="image" src="https://github.com/user-attachments/assets/fef5c46a-39fc-4e0e-aa11-095e7bc6b093" />  
+<img width="700" height="371" alt="image" src="https://github.com/user-attachments/assets/bf5b4259-c5a8-4589-8121-334d4f8a1627" />  
+<img width="410" height="267" alt="image" src="https://github.com/user-attachments/assets/633ce65c-da63-479a-989b-d0e725814ea4" />  
+<img width="410" height="270" alt="image" src="https://github.com/user-attachments/assets/b9fecd49-7ad7-46a3-a7bf-2b174931561c" />   
+<img width="740" height="405" alt="image" src="https://github.com/user-attachments/assets/fef5c46a-39fc-4e0e-aa11-095e7bc6b093" />  
+
 
 ---
 
@@ -57,10 +61,12 @@ Lightweight mood tracking web application
 ---
 
 ## Mood logger with 2 entries, automatically color-coded:
-<img width="648" height="888" alt="image" src="https://github.com/user-attachments/assets/942d92cb-a217-4b90-879f-50314f574529" />
+<img width="517" height="478" alt="image" src="https://github.com/user-attachments/assets/15ff3770-5064-47b0-a8ae-97e7c737827f" />
+
 
 ## How it works information panel:
-<img width="543" height="754" alt="image" src="https://github.com/user-attachments/assets/e58953d5-12b5-45d0-b151-83aeb7b4dc92" />
+<img width="418" height="461" alt="image" src="https://github.com/user-attachments/assets/57eb3c04-3e7b-4e57-b3e3-4a2b0800c133" />
+
 
 
 - **Impact:** Promotes self-awareness by automatically analyzing mood entries and uses VADER for color-coding them based on sentiment value.
