@@ -1,4 +1,4 @@
-# Uğur Baştuğ - Python Developer 👋
+# Uğur Baştuğ - Web Developer 👋
 
 Self-taught Python developer specializing in **web applications**, **productivity tools**, and **data-driven solutions**. I build practical software that solves real problems while exploring modern development practices.
 
