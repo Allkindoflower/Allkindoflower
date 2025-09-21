@@ -17,7 +17,7 @@ Real-time International Space Station tracker with geolocation analysis
 
 ## ISS over the Indian Ocean:  
 
-<img width="475" height="476" alt="image" src="https://github.com/user-attachments/assets/387e6097-ed71-47db-99de-5df6cff2417a" />
+<img width="419" height="476" alt="image" src="https://github.com/user-attachments/assets/387e6097-ed71-47db-99de-5df6cff2417a" />
 
 ---
 
