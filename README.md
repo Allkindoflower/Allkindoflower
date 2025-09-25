@@ -31,7 +31,9 @@ Gamified productivity app that turns tasks into "quests"
 ---
 
 ## A sneak-peek of the Task Manager:
-<img width="539" height="629" alt="image" src="https://github.com/user-attachments/assets/0efb4b5b-f1c9-4ccb-bc0d-15370508bfb3" />
+<img width="492" height="695" alt="image" src="https://github.com/user-attachments/assets/1abf8afc-4d7d-4e31-b3a9-57aff412bdba" />
+
+
 
 ---
 
