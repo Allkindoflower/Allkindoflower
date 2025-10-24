@@ -100,6 +100,6 @@ Lightweight mood tracking web application
 ## 📫 Let's Connect
 
 **Email:** bastugugur85@gmail.com  
-**LinkedIn:** [Uğur Baştuğ](https://www.linkedin.com/in/ugur-ba%C5%9Ftu%C4%9F-62b262315/)
+**LinkedIn:** [Uğur Baştuğ](https://www.linkedin.com/in/u%C4%9Fur-ba%C5%9Ftu%C4%9F-62b262315/)
 
 Open to discussing opportunities in web development, data projects, or any challenging Python work. Ready to contribute to meaningful projects and grow with a dynamic team.
