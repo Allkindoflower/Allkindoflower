@@ -1,6 +1,6 @@
-# Uğur Baştuğ - Web Developer 👋
+# Uğur Baştuğ - Python Script Developer 👋
 
-Self-taught Python developer specializing in **web applications**, **productivity tools**, and **data-driven solutions**. I build practical software that solves real problems while exploring modern development practices.
+Self-taught Python developer specializing in **internal tools**, **scripts**, and **user-friendly solutions**. I build practical software while exploring modern development practices.
 
 **Available for:** Full-time opportunities, freelance projects, collaborations
 
