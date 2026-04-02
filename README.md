@@ -1,4 +1,4 @@
-# Uğur Baştuğ - Python Script Developer 👋
+# Uğur Baştuğ - Backend-focused Python Developer 
 
 Self-taught Python developer specializing in **internal tools**, **scripts**, and **user-friendly solutions**. I build practical software while exploring modern development practices.
 
@@ -33,12 +33,10 @@ Gamified productivity app that turns tasks into "quests"
 ## A sneak-peek of the Task Manager:
 <img width="492" height="695" alt="image" src="https://github.com/user-attachments/assets/1abf8afc-4d7d-4e31-b3a9-57aff412bdba" />
 
-
-
 ---
 
-- **Impact:** Increases user engagement through game mechanics and UX design
-- **Tech:** Python, FastAPI, SQLite, Docker, Pytest
+- **Impact:** Increases user engagement through a game-y design
+- **Tech:** Python, FastAPI, SQLite
 - **Features:** Full-stack architecture, comprehensive testing, containerized deployment
 
 ### [File Organizer](https://github.com/Allkindoflower/file-organizer)
@@ -71,29 +69,29 @@ Lightweight mood tracking web application
 ---
 
 - **Impact:** Promotes self-awareness by automatically analyzing mood entries and uses VADER for color-coding them based on sentiment value.
-- **Tech:** Python, FastAPI, SQLite, Vanilla JavaScript
-- **Features:** Local data storage, responsive design, privacy-focused
+- **Tech:** Python, FastAPI, SQLite, JavaScript
+- **Features:** Local data storage, responsive design
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages:** Python (primary), JavaScript, HTML/CSS  
-**Frameworks:** FastAPI, Flask, exploring Django  
-**Databases:** SQLite, working with GeoPandas  
-**Tools:** Docker, Git, Pytest, Tkinter  
-**Cloud:** Render deployment, REST API design  
+**Frameworks:** FastAPI
+**Databases:** SQLite, PostgreSQL  
+**Tools:** Docker, Git, Pytest  
+**Cloud:** Render deployment 
 
-**Strengths:** Backend development, API design, data processing, UI/UX thinking
+**Strengths:** Backend development, API design, data processing
 
 ---
 
 ## 🌱 Current Focus
 
-- Scaling REST APIs and deployment patterns
-- Test-driven development and code quality
-- Frontend-backend integration best practices
-- Data visualization and analytics features
+- Develop communication skills alongside technical skills
+- Code quality
+- Backend design best practices
+- Master Python's core features
 
 ---
 
@@ -102,4 +100,4 @@ Lightweight mood tracking web application
 **Email:** bastugugur85@gmail.com  
 **LinkedIn:** [Uğur Baştuğ](https://www.linkedin.com/in/u%C4%9Fur-ba%C5%9Ftu%C4%9F-62b262315/)
 
-Open to discussing opportunities in web development, data projects, or any challenging Python work. Ready to contribute to meaningful projects and grow with a dynamic team.
+Open to discussing opportunities in web development, data projects, or any Python work. Ready to contribute to meaningful projects and grow with a dynamic team.
